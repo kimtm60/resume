@@ -32,7 +32,7 @@
 3.1  기초지식(Basics)
 * Programming Languages: C, C++, Java, JSP, Javascript
 * Operating Systems: Linux
-* IDE(Eclipse), Visual Studio
+* IDE(Eclipse), Visual Studio , Android Studio
 
 3.2 웹 개발(Web Development)
 * Java 개발 프레임워크(Spring, MyBatis, Hibernate)
@@ -47,6 +47,8 @@
 
 | 자격증명 | 발급일자  | 발급기관|점수| 
 |---|---|---|---|
+| 정보처리기사|2016.11.18|한국산업인력공단|
+| 정보처리산업기사|2016.11.18|한국산업인력공단|
 | TOEIC | 2017.04 | ETS   | 705  |
 | 1종보통운전면허증| 2010.04 | 경기도지방경찰청 | 
 
@@ -62,6 +64,7 @@
 
 | 경력 구분 | 활동 내용 | 기관 |활동기간 |
 |---|---|---|---|
+|인턴 활동|POS 프로그램 호환성 테스트, Utility Driver 제작|밸크리텍 기술연구소|2016.07 - 2017.02|
 |한성 튜터링|컴퓨터언어기초 튜터링 튜터 담당|한성대학교|2016.03 - 2016.06|
 |한성 튜터링|C++ 튜터링 튜터 담당|한성대학교|2015.09 - 2015.12|
 |봉사활동|기증품 판매, 영업|아름다운 가게|2015.03 - 2015.07|
